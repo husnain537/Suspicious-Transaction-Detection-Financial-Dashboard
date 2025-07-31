@@ -3,7 +3,10 @@ This project simulates a real-world junior data analyst role in the finance doma
 
 The goal was to:
 •	Clean, messy data (e.g., missing notes, invalid characters, suspicious patterns)
+
 •	Detect anomalies such as same sender and receiver, very large transfers, and blank fields
+
 •	Build an interactive dashboard using Pivot Tables, Filters, and Charts
+
 •	Extract actionable business insights to support financial decision-making
 
